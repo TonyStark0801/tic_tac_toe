@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tic_tac_toe/colors/colors.dart';
+import 'package:tic_tac_toe/utils/colors.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 class GameScreen extends StatefulWidget {
